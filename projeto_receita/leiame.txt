@@ -1,0 +1,5 @@
+tirei o slugify do package
+mudei o model de receita e produto
+tirei metodos não usados do receita e produto controller
+tirei as rotas não usadas do receita e produto routes
+os dados salvam no banco!
